@@ -1,0 +1,7 @@
+The third-party modules:
+tkinter
+pandas
+csv
+sys
+re
+textblob
